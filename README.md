@@ -3,8 +3,8 @@
 <head>
 
   
-  <script src="SpeakHello.js"></script>
-  <script src="SpeakGoodBye.js"></script>
+  <script src="speakhello.js"></script>
+  <script src="speakgoodBye.js"></script>
   <script src="script.js"></script>
 </head>
 <body>
